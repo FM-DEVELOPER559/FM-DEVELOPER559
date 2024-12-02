@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**FM-DEVELOPER559/FM-DEVELOPER559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi, i'm Faisal Majeed (Fm_Developer) 👋
 
 - 🔭 I’m currently working on web scraping and automation.
-- 🌱 I’m currently learning web machine learning, automation and web scraping.
-- 👯 I’m looking to collaborate on with experince developer or machine learning project.
-- 🤔 I’m looking for help with begnerr developer
-- 💬 Ask me about: web scraping automation and machine learning.
-- 📫 How to reach me: fm3011@gmail.com | Linkein | Fiverr 
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: cricket 
--->
+- 🌱 I’m learning machine learning, web automation, and web scraping.
+- 👯 I’m looking to collaborate on machine learning, web scraping, and automation projects.
+<-- - 🤔 I’m open to helping beginner developers.-->
+- 💬 Ask me about web scraping, automation, and machine learning.
+- 📫 Reach me at: fm3011@gmail.com | LinkedIn | Fiverr.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Cricket. 
+
